@@ -16,7 +16,7 @@
 
 ## Languages and Tools:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 <!--
 **ekin2038/ekin2038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
