@@ -7,7 +7,7 @@
 - 📫 How to reach me: ekinchakma@brandeis.edu
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/ekinchakma/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/ekinchakma/))
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](your-twitter-url)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/your-username)
 
