@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ekin Chakma
 
-## A Comnputer Science student based in the USA
+## A Computer Science student based in the USA
 
 - 🌱 I’m currently studying at Brandeis University
 - 🔭 I’m currently working as Software Engineer Intern at TAMID @ Brandeis and Software Engineer, Mobile Developer for Branda App
