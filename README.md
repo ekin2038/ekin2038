@@ -51,9 +51,12 @@
   </a>
   <a href="https://www.mongodb.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  </a>
-  
+  </a>  
 </p>
+
+## 📊 GitHub Stats & Profile Overview
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekin2038&theme=dracula)
+
 <!--
 **ekin2038/ekin2038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
