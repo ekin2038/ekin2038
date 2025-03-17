@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Stats & Profile Overview
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekin2038&theme=dracula)
-
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekin2038&theme=dracula)
 ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekin2038&theme=dracula)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekin2038&theme=dracula)
