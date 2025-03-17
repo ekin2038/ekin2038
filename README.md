@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/ekinchakma/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px">
 </a>
+<a href="https://www.facebook.com/profile.php?id=100009290268017">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30px">
+</a>
 
 <!--
 **ekin2038/ekin2038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
