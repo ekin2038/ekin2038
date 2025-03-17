@@ -6,6 +6,11 @@
 - 🔭 I’m currently working as Software Engineer Intern at TAMID @ Brandeis and Software Engineer, Mobile Developer for Branda App
 - 📫 How to reach me: ekinchakma@brandeis.edu
 
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](your-twitter-url)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/your-username)
+
 <!--
 **ekin2038/ekin2038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
