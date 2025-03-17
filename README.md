@@ -14,6 +14,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30px">
 </a>
 
+## Languages and Tools:
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
 <!--
 **ekin2038/ekin2038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
