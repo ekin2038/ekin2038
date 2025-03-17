@@ -7,7 +7,9 @@
 - 📫 How to reach me: ekinchakma@brandeis.edu
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/ekinchakma/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px" style="filter: invert(23%) sepia(96%) saturate(501%) hue-rotate(176deg) brightness(90%) contrast(85%);"></a>
+<a href="https://www.linkedin.com/in/ekinchakma/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px">
+</a>
 
 <!--
 **ekin2038/ekin2038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
